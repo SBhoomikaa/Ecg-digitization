@@ -1,4 +1,4 @@
-#Ecg-digitization
+# Ecg-digitization
 This project converts scanned images of paper-based ECGs into digital time-series data. It is specifically designed to be robust against common issues like scan misalignment, page rotation, and non-standard lead layouts (e.g., 3x4, 2x6).
 
 🎯 The Problem
